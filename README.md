@@ -3,7 +3,7 @@ A repository where you can upload any code in any language of your choice. Feel 
 
 
 # Hacktoberfest_20
-![img](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FImage&psig=AOvVaw1XpijZ_qoeQmkJMkc5IRVg&ust=1601654646753000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOizldTik-wCFQAAAAAdAAAAABAD)
+![img](Hack20.PNG)
 
 A repository where you can upload any code in any language of your choice. Feel Free to add your code here :)
 
