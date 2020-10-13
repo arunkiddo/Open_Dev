@@ -1,0 +1,59 @@
+{  
+   "trns":[  
+      {  
+         "name":"FIDE World Chp. (W)",
+         "slug":"fide-world-championship-w-2018",
+         "img": "https://images.freeimages.com/images/large-previews/ddb/corn-field-2-1368926.jpg",
+         "status":1
+      },
+      {  
+         "name":"Russian Team League",
+         "slug":"russian-team-league-2018",
+         "img": "https://images.freeimages.com/images/large-previews/6a5/dragon-fly-on-the-river-1394126.jpg",
+         "status":1
+      },
+      {  
+         "name":"Russian Team League (W)",
+         "slug":"russian-team-league-w-2018",
+         "img": "https://images.freeimages.com/images/large-previews/035/young-golden-retriever-1404848.jpg",
+         "status":1
+      },
+      {  
+         "name":"TePe Sigeman \u0026 Co",
+         "slug":"tepe-sigeman--co-2018",
+         "img": "https://images.freeimages.com/images/large-previews/a61/vikingland-1316664.jpg",
+         "status":1
+      },
+      {  
+         "name":"Nakhchivan Open",
+         "slug":"nakchivan-open-2018",
+         "img": "https://images.freeimages.com/images/large-previews/b85/bay-lrt-station-1626400.jpg",
+         "status":1
+      },
+      {  
+         "name":"Ukrainian U10 Chp",
+         "slug":"ukrainian-u10-chp-2018",
+         "status":0
+      },
+      {  
+         "name":"Latvian Championship",
+         "slug":"latvian-championship-2018",
+         "status":1
+      },
+      {  
+         "name":"Latvian Championship",
+         "slug":"latvian-championship-w-2018",
+         "status":0
+      },
+      {  
+         "name":"Stockholm Challenge",
+         "slug":"stockholm-challenge-2018",
+         "status":1
+      },
+      {  
+         "name":"Czech Championship",
+         "slug":"czech-championship-2018",
+         "status":1
+      }
+   ]
+}
